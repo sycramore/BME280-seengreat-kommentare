@@ -21,4 +21,9 @@
 * Unterordner BME280 enthaelt 3 Dateien aus der offiziellen Library fuer den BME280 von Bosch.
 * Dateien fuer eigene Version kopieren oder die offizielle Library von Bosch als Fork in eigene Version integrieren?
 
+## Die gesuchte Datei
+
+* liegt in /STM32/USER/main.c
+
+Gut versteckt. Keine Notizen zu Copyright oder Autor. Im Code stehen einige Kommentare wie experimental. 
 
